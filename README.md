@@ -1,2 +1,2 @@
-#DMM WEBCAMPコンテンツ【演習問題】
-DMM WEBCAMPの学習コンテンツの演習問題です。
+#DMM WEBCAMPコンテンツ【HTML・CSSを学ぼう】
+DMM WEBCAMPの学習コンテンツ【HTML・CSSを学ぼう】の演習問題・課題の格納場所です。
