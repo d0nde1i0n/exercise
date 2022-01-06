@@ -39,15 +39,15 @@ main {
   background-position: bottom;
 }
 
-.box-img1 {
+.img1 {
   background-image: url(img/flow01.png);
 }
 
-.box-img2 {
+.img2 {
   background-image: url(img/flow02.png);
 }
 
-.box-img3 {
+.img3 {
   background-image: url(img/flow03.png);
 }
 
